@@ -1,0 +1,11 @@
+Berikut ini langkah-langkah membuat Simulasi Gerak Jatuh Bebas (GJB) dan Gerak Lurus Berubah Beraturan (GLBB):
+1. Mencari data awal menggunakan rumus Gerak Jatuh Bebas (GJB) dan Gerak Lurus Berubah Beraturan (GLBB). 
+2. Untuk dapat memulai simulasi secara manual menggunakan scroll bar yaitu dengan memilih developer tools pada excel, klik insert dan pilih scroll bar. 
+3. Untuk mengatur scroll bar dengan klik kanan pada scroll bar dan pilih kontrol format. Tetapkan batas scroll bar minimal dan maksimal berdasarkan data waktu.
+4. Dengan ini, simulasi dapat menampilkan grafik yang dapat mensimulasikan fenomena fisika gerak jatuh bebas.
+5. Selanjutnya untuk memulai simulasi secara otomatis yaitu menggunakan makro yang ditetapkan pada button. 
+6. Untuk menampilkan button yaitu dengan memilih developer tool, klik insert adan pilih button. 
+7. Klik kanan pada button, pilih assign macro dan masukkan program.
+8. Dalam program, perintah sub-button digunakan untuk menjalankan perintah. Perintah While digunakan untuk mengulang suatu program.
+9. Perintah Wend (sementara berakhir) dan end sub untuk mengakhiri program. 
+10. Setelah macro dibuat, simulasi dapat dijalankan secara otomatis hanya dengan satu kali klik pada button yang dibuat.
